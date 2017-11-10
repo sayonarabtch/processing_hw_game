@@ -61,5 +61,4 @@ int x, xx, y, yy, g, score, j;
      score = 0;
      loop();
      generate();
-
  }
